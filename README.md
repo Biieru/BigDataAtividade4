@@ -153,7 +153,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👥 Autores
 
-- **Sassha Michaelis** - Desenvolvimento e implementação
+- **@Bordercansado** - Desenvolvimento e implementação
 
 ## 📞 Suporte
 
@@ -171,4 +171,5 @@ Para suporte, abra uma issue no repositório ou entre em contato através do ema
 
 ---
 
-**Desenvolvido com ❤️ para análise de Big Data**
+**Desenvolvido para análise de Big Data**
+
